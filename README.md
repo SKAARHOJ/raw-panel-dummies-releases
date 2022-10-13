@@ -1,7 +1,7 @@
 # raw-panel-dummies-releases
-Releases for the raw panel simulator tool
+Releases for the Raw Panel Dummies emulator tool
 
-RawPanel Dummies allows you to simulate SKAARHOJ hardware panels in a webbrowser and communicate with them over the rawpanel protocol
+Raw Panel Dummies allows you to emulate SKAARHOJ hardware panels in a webbrowser and communicate with them over the rawpanel protocol
 
 You find releases under the releases section on this repository
 
