@@ -7,6 +7,6 @@ You find releases under the releases section on this repository
 
 [CLICK HERE for Release downloads](https://github.com/SKAARHOJ/raw-panel-dummies-releases/releases)
 
-Here are some links to instructions for using Raw Panel Dummies on [Mac](https://github.com/SKAARHOJ/raw-panel-dummies-releases/blob/main/Running%20Raw%20Panel%20Dummies%20mac.pdf) and [Windows](https://github.com/SKAARHOJ/raw-panel-dummies-releases/blob/main/Running%20Raw%20Panel%20Dummies%20win.pdf)
+Here are some links to instructions for using Raw Panel Dummies on [Mac](https://wiki.skaarhoj.com/books/applications/page/running-cli-applications-mac) and [Windows](https://wiki.skaarhoj.com/books/applications/page/running-cli-applications-windows)
 
 To play with Raw Panel Dummies we strongly advice you to download another tool - a client - that can connect to the panels and help you explore how Raw Panel protocol works. Go to [Raw Panel Explorer](https://github.com/SKAARHOJ/raw-panel-explorer/releases)
