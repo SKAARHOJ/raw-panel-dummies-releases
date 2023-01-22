@@ -1,0 +1,31 @@
+[General]
+
+[[EmulatedPanels]]
+  BaseModel = "MASTERKEYONEV2"
+  Variant = "BK"
+  Serial = "123d56"
+  ProtocolMode = 0
+  Port = 9925
+  Active = false
+  MaxClients = 0
+  LockToIPs = ""
+
+[[EmulatedPanels]]
+  BaseModel = "AIRFLYPROV3"
+  Variant = "NKK"
+  Serial = "123456"
+  ProtocolMode = 2
+  Port = 9923
+  Active = false
+  MaxClients = 0
+  LockToIPs = ""
+
+[[EmulatedPanels]]
+  BaseModel = "RACKFUSIONLIVE"
+  Variant = "NKK-JOY"
+  Serial = "234awf"
+  ProtocolMode = 1
+  Port = 9924
+  Active = false
+  MaxClients = 0
+  LockToIPs = ""
