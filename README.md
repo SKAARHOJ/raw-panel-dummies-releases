@@ -14,3 +14,7 @@ To play with Raw Panel Dummies we strongly advice you to download another tool -
 ## Legacy and External Panel Topologies
 The file raw-panel-dummies-profile_LegaciesAndExternalPanels.zip contains folders with topologies for a number of legacy UniSketch panels as well as some external panels like StreamDecks. This can be used to simulate these panels as they are not embedded in the raw-panel-dummies application. 
 Unzip the file and a folder named raw-panel-dummies-profile/ will be created with the profiles inside. Make sure this folder is located in the same directory where the raw-panel-dummies application  is located and run from. You simulate these panels by reference to their sub-folder name using the -panel flag.
+
+## Crestron USP/USH modules for SIMPL windows
+The file Crestron_Modules_for_RawPanels.zip contains .usp/.ush files for many raw panel devices, including most SKAARHOJ controllers, StreamDecks etc. These files make Crestron integration of SKAARHOJ controllers (or a StreamDeck via connection to the Blue Pill) easy. 
+Check the article about it here (https://wiki.skaarhoj.com/books/raw-panel/page/crestron-modules-usp-for-raw-panel)
